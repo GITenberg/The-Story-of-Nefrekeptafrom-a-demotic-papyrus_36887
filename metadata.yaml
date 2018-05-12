@@ -1,0 +1,32 @@
+_repo: The-Story-of-Nefrekeptafrom-a-demotic-papyrus_36887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aime
+    - Murray, George Gilbert Aimé
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+description: ''
+gutenberg_issued: '2011-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egyptian language -- Demotic, ca. 650 B.C.-450 A.D. -- Texts -- Translations
+  into English'
+- !lcc 'PJ'
+- !lcsh 'Egyptian literature -- Translations into English'
+title: The Story of Nefrekepta, from a Demotic Papyrus
+url: http://www.gutenberg.org/ebooks/36887
